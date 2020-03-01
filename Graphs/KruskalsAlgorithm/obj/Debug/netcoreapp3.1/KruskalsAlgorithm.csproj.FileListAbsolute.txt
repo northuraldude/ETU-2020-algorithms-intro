@@ -1,0 +1,11 @@
+D:\ETU\Term 8\Algorithms Analysis\Graphs\KruskalsAlgorithm\bin\Debug\netcoreapp3.1\KruskalsAlgorithm.exe
+D:\ETU\Term 8\Algorithms Analysis\Graphs\KruskalsAlgorithm\bin\Debug\netcoreapp3.1\KruskalsAlgorithm.deps.json
+D:\ETU\Term 8\Algorithms Analysis\Graphs\KruskalsAlgorithm\bin\Debug\netcoreapp3.1\KruskalsAlgorithm.runtimeconfig.json
+D:\ETU\Term 8\Algorithms Analysis\Graphs\KruskalsAlgorithm\bin\Debug\netcoreapp3.1\KruskalsAlgorithm.runtimeconfig.dev.json
+D:\ETU\Term 8\Algorithms Analysis\Graphs\KruskalsAlgorithm\bin\Debug\netcoreapp3.1\KruskalsAlgorithm.dll
+D:\ETU\Term 8\Algorithms Analysis\Graphs\KruskalsAlgorithm\bin\Debug\netcoreapp3.1\KruskalsAlgorithm.pdb
+D:\ETU\Term 8\Algorithms Analysis\Graphs\KruskalsAlgorithm\obj\Debug\netcoreapp3.1\KruskalsAlgorithm.csprojAssemblyReference.cache
+D:\ETU\Term 8\Algorithms Analysis\Graphs\KruskalsAlgorithm\obj\Debug\netcoreapp3.1\KruskalsAlgorithm.AssemblyInfoInputs.cache
+D:\ETU\Term 8\Algorithms Analysis\Graphs\KruskalsAlgorithm\obj\Debug\netcoreapp3.1\KruskalsAlgorithm.AssemblyInfo.cs
+D:\ETU\Term 8\Algorithms Analysis\Graphs\KruskalsAlgorithm\obj\Debug\netcoreapp3.1\KruskalsAlgorithm.dll
+D:\ETU\Term 8\Algorithms Analysis\Graphs\KruskalsAlgorithm\obj\Debug\netcoreapp3.1\KruskalsAlgorithm.pdb
