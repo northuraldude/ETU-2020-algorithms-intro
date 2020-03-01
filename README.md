@@ -1,2 +1,2 @@
 # algorithms-ETU
-Introduction to Algorithms (ETU 2020)
+ETU 2020: Introduction to Algorithms
